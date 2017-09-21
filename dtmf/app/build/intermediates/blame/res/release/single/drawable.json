@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Roger Puig\\AndroidStudioProjects\\dtmf\\app\\build\\intermediates\\res\\merged\\release\\drawable\\customswitchselector.xml",
+        "source": "C:\\Users\\Roger Puig\\AndroidStudioProjects\\dtmf\\app\\src\\main\\res\\drawable\\customswitchselector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Roger Puig\\AndroidStudioProjects\\dtmf\\app\\build\\intermediates\\res\\merged\\release\\drawable\\back.xml",
+        "source": "C:\\Users\\Roger Puig\\AndroidStudioProjects\\dtmf\\app\\src\\main\\res\\drawable\\back.xml"
+    },
+    {
+        "merged": "C:\\Users\\Roger Puig\\AndroidStudioProjects\\dtmf\\app\\build\\intermediates\\res\\merged\\release\\drawable\\custom_track.xml",
+        "source": "C:\\Users\\Roger Puig\\AndroidStudioProjects\\dtmf\\app\\src\\main\\res\\drawable\\custom_track.xml"
+    }
+]

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Roger Puig\.gradle\caches\modules-2\files-2.1\com.github.wendykierp\JTransforms\3.0\79477aec6929cd64cd863d6ac59c2445d00239a3\JTransforms-3.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="79477aec6929cd64cd863d6ac59c2445d00239a3">
+        <dex dex="C:\Users\Roger Puig\AndroidStudioProjects\dtmf\app\build\intermediates\pre-dexed\debug\JTransforms-3.0-65ab000efa9066c6d63a7d7a9a88a1e9cb7a7bc1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Roger Puig\.gradle\caches\modules-2\files-2.1\pl.edu.icm\JLargeArrays\1.2\85c8cd79cc2865ef37cd70f96cd82246ee642d58\JLargeArrays-1.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="85c8cd79cc2865ef37cd70f96cd82246ee642d58">
+        <dex dex="C:\Users\Roger Puig\AndroidStudioProjects\dtmf\app\build\intermediates\pre-dexed\debug\JLargeArrays-1.2-af2a877571258bc359648031bcf6b7dbd4f26a13.jar" />
+    </item>
+
+</items>

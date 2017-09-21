@@ -1,0 +1,34 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="eninter.com.dtmf.AudioRecordTest">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <eninter.com.dtmf.AudioRecordTest.RecordButton
+            android:id="@+id/record"
+            android:layout_weight="0.5"
+            android:text="Start Recording"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <eninter.com.dtmf.AudioRecordTest.PlayButton
+            android:id="@+id/play"
+            android:layout_weight="0.5"
+            android:text="Start Playing"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        </LinearLayout>
+
+
+</LinearLayout><!-- From: file:/C:/Users/Roger%20Puig/AndroidStudioProjects/dtmf/app/src/main/res/layout/audiorecord.xml -->
